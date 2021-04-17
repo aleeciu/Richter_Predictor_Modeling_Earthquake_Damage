@@ -1,0 +1,11 @@
+check what features are similar with datadriven challenge
+check what categorical, what numerical
+check missing values and treat them
+encode categoriacal variables
+normalization/feature scaling
+dimensionality reduction -> maybe not needed - not that many after all
+classification problems and measures
+- try SVM
+- random forest/decision tree
+- neural netowork
+(bayesian network)
